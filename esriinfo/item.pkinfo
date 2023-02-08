@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.arcgisonline.com/home/pkinfostylesheet.xsl"?>
+<pkinfo Culture='zh-CN'>
+<ID>2F38014E-B406-4572-8838-4C00E039DAA6</ID>
+<name>Data</name>
+<version>10.4</version>
+<size>-1</size>
+<created></created>
+<type>Map Package</type>
+<servable>false</servable>
+<packagelocation></packagelocation>
+<pkinfolocation></pkinfolocation>
+<documenttypes>
+<documenttype>mxd</documenttype>
+</documenttypes>
+</pkinfo>
